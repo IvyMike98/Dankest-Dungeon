@@ -1,0 +1,14 @@
+c:\Users\mikei\OneDrive\Desktop\Dankest dungeon\DankestDungeonWorking\DankestDungeonWorking\bin\Debug\net8.0\DankestDungeonWorking.exe
+c:\Users\mikei\OneDrive\Desktop\Dankest dungeon\DankestDungeonWorking\DankestDungeonWorking\bin\Debug\net8.0\DankestDungeonWorking.deps.json
+c:\Users\mikei\OneDrive\Desktop\Dankest dungeon\DankestDungeonWorking\DankestDungeonWorking\bin\Debug\net8.0\DankestDungeonWorking.runtimeconfig.json
+c:\Users\mikei\OneDrive\Desktop\Dankest dungeon\DankestDungeonWorking\DankestDungeonWorking\bin\Debug\net8.0\DankestDungeonWorking.dll
+c:\Users\mikei\OneDrive\Desktop\Dankest dungeon\DankestDungeonWorking\DankestDungeonWorking\bin\Debug\net8.0\DankestDungeonWorking.pdb
+c:\Users\mikei\OneDrive\Desktop\Dankest dungeon\DankestDungeonWorking\DankestDungeonWorking\obj\Debug\net8.0\DankestDungeonWorking.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mikei\OneDrive\Desktop\Dankest dungeon\DankestDungeonWorking\DankestDungeonWorking\obj\Debug\net8.0\DankestDungeonWorking.AssemblyInfoInputs.cache
+c:\Users\mikei\OneDrive\Desktop\Dankest dungeon\DankestDungeonWorking\DankestDungeonWorking\obj\Debug\net8.0\DankestDungeonWorking.AssemblyInfo.cs
+c:\Users\mikei\OneDrive\Desktop\Dankest dungeon\DankestDungeonWorking\DankestDungeonWorking\obj\Debug\net8.0\DankestDungeonWorking.csproj.CoreCompileInputs.cache
+c:\Users\mikei\OneDrive\Desktop\Dankest dungeon\DankestDungeonWorking\DankestDungeonWorking\obj\Debug\net8.0\DankestDungeonWorking.dll
+c:\Users\mikei\OneDrive\Desktop\Dankest dungeon\DankestDungeonWorking\DankestDungeonWorking\obj\Debug\net8.0\refint\DankestDungeonWorking.dll
+c:\Users\mikei\OneDrive\Desktop\Dankest dungeon\DankestDungeonWorking\DankestDungeonWorking\obj\Debug\net8.0\DankestDungeonWorking.pdb
+c:\Users\mikei\OneDrive\Desktop\Dankest dungeon\DankestDungeonWorking\DankestDungeonWorking\obj\Debug\net8.0\DankestDungeonWorking.genruntimeconfig.cache
+c:\Users\mikei\OneDrive\Desktop\Dankest dungeon\DankestDungeonWorking\DankestDungeonWorking\obj\Debug\net8.0\ref\DankestDungeonWorking.dll
